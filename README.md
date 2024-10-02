@@ -1,5 +1,5 @@
 ![Icon](https://docs.amnezia.org/ru/img/logo-with-a-w-glow.svg)
-# AmneziaWG VPN Key Delegation and User Management
+# AmneziaWG VPN Key Delegation and User Management with QR
 
 This archive contains files for **AmneziaWG VPN key delegation and user management scripts**.
 
