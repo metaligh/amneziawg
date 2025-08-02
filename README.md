@@ -21,3 +21,6 @@ Before running the `awguser` script, install `qrencode`:
 apt install qrencode
 ```
 A full description of how to use the scripts can also be found in the `readme` file of the archive.
+
+# Link to registration and 20% cashback discount on AEZA VPS registration💵 
+https://aeza.net/?ref=554977
